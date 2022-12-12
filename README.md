@@ -20,4 +20,6 @@ Simple Contact Management System made using Python with standard GUI (Graphical 
 
 https://youtu.be/zTLgrUtbc9Y
 
+## UML CLASS DIAGRAM LINK:
+https://app.diagrams.net/#G1jZdQ-HBpCIqfVIgBllTJh1u5czh9YbRs
 
